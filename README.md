@@ -11,6 +11,9 @@
 
 # 软破解方法
 * 首先看一看自己的机器是否能软破解，主要是查一下序列号。 google一下，有专门的网址提供查询，输入序列号，看看提示的结果，分为3种。 如 https://damota.me/ssnc/checker
+![image](./1.jpg)
+
+![image](./2.jpg)
 
 * 如果确定可以破解，那么推荐购买sx pro套件，淘宝上搜索即可购买。 官方的地址是 https://team-xecuter.com/
 
