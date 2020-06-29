@@ -19,7 +19,7 @@ https://damota.me/ssnc/checker
 https://team-xecuter.com/​
 team-xecuter.com
 
-到手一个短接器（左），启动器（右）
+* 到手一个短接器（左），启动器（右）
 
 * 第一次按照淘宝卖家的指引，或者官网指引激活即可
 
@@ -30,8 +30,7 @@ switch-xci.com
 https://nxbrew.com/
 nxbrew.com
 
-我个人比较懒，做了个爬虫整合他俩，方便我自己浏览
-Switch游戏​
+* 我个人比较懒，做了个爬虫整合他俩，方便我自己浏览
 www.esrrhs.xyz
 
 * 基本上，玩的游戏比正版卡带更快出，甚至还有画质补丁、汉化补丁等。
