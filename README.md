@@ -16,8 +16,7 @@ https://damota.me/ssnc/checker
 
 * 如果确定可以破解，那么推荐购买sx pro套件，淘宝上搜索即可购买。 官方的地址是 
 
-https://team-xecuter.com/​
-team-xecuter.com
+https://team-xecuter.com/
 
 * 到手一个短接器（左），启动器（右）
 
@@ -26,9 +25,8 @@ team-xecuter.com
 * 后续每次重启switch，都要破解一次，插上短接器，插上启动器，开机。所以这俩要随switch携带，一般放switch的包里破解的游戏是装在sd卡里，所以要准备个大的sd卡，128G一般就足够了。剩下的就是往sd卡拷贝游戏了，游戏下载推荐以下两个网站 
 
 https://switch-xci.com/
-switch-xci.com
+
 https://nxbrew.com/
-nxbrew.com
 
 * 我个人比较懒，做了个爬虫整合他俩，方便我自己浏览
 www.esrrhs.xyz
